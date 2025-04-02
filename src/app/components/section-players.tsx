@@ -7,7 +7,7 @@ const Jogadores = () => {
         Elenco:
       </h1>
 
-      <div className="m-5 grid grid-cols-2 gap-6 place-items-center lg:grid-cols-4 space-y-6">
+      <div className="m-5 grid grid-cols-1 gap-6 place-items-center lg:grid-cols-4 space-y-6">
         <CardsPlayers
           numero={14}
           src="/Lomba-3.png"

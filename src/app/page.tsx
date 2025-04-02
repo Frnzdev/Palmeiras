@@ -5,7 +5,7 @@ import SliderPalmeiras from "./components/slider-palmeiras";
 
 export default function Home() {
   return (
-    <div className="bg-gray-200">
+    <div className="bg-gray-200 overflow-hidden">
       <SliderPalmeiras />
       <SerAvanti />
       <SectionPlanos />
